@@ -37,3 +37,7 @@ Lanugage: Chinese / English
 [阿里巴巴的风控相比较传统银行的风控有何区别？会更有优势吗？](https://www.zhihu.com/question/23184094)
 
 [Uncovering Large Groups of Active Malicious Accounts in Online Social Networks](https://users.cs.duke.edu/~xwy/publications/SynchroTrap-ccs14.pdf)
+
+[Nikunj Oza: "Data-driven Anomaly Detection" | Talks at Google](https://www.youtube.com/watch?v=5mBiac_dhbs&t=1175s)
+
+- Air traffic; One-class SVM; [Multiple Kernel Learning based Heterogeneous Algorithm (MKAD)](https://c3.nasa.gov/dashlink/projects/34/);
