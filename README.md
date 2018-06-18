@@ -8,7 +8,12 @@ Lanugage: Chinese / English
 
 ## 2017
 
-[外卖订单量预测异常报警模型实践](https://tech.meituan.com/order-holtwinter.html)
+[Time Series Anomaly Detection: Detection of Anomalous Drops with Limited Features and Sparse Examples in Noisy Highly Periodic Data](https://arxiv.org/pdf/1708.03665.pdf)
+
+- Two-stage architecture: predictor and anomaly-detector / comparator.
+- For the predictor they used Deep Learning models like DNN, RNN, LSTM.
+
+[Meituan] [外卖订单量预测异常报警模型实践](https://tech.meituan.com/order-holtwinter.html)
 
 [互联网业务风险控制的重要性](https://www.jianshu.com/p/bd6eb2d2b91b)
 
@@ -16,7 +21,7 @@ Lanugage: Chinese / English
 
 ## 2016
 
-[美团风险控制系统综述](https://tech.meituan.com/online-risk-control.html) 
+[Meituan] [美团风险控制系统综述](https://tech.meituan.com/online-risk-control.html) 
 
 [搭建风控系统道路上踩过的坑——一个CPO的心得分享](http://bigsec.com/bigsec-news/wechat-161010-CPOfenxiang)
 
@@ -30,6 +35,19 @@ Lanugage: Chinese / English
 
 [EVILCOHORT: Detecting Communities of Malicious Accounts on Online Services](http://www0.cs.ucl.ac.uk/staff/G.Stringhini/papers/evilcohort-usenix2015.pdf)
 
+[RAD — Outlier Detection on Big Data](https://medium.com/netflix-techblog/rad-outlier-detection-on-big-data-d6b0494371cc)
+
+- Robust PCA; [project source code](https://github.com/Netflix/Surus);
+
+[Tracking down the Villains: Outlier Detection at Netflix](https://medium.com/netflix-techblog/tracking-down-the-villains-outlier-detection-at-netflix-40360b31732)
+
+- DBSCAN clustering.
+
+[luminol: a light weight python library for anomaly detection and correlation of time series](https://github.com/linkedin/luminol)
+
+- The default anomaly detection method is based on the 2005 "Assumption-Free" paper.
+- One limitation, if I understand correctly, is that detection_delay = future_window_size, which can be rather big if one wants to account for periodicity.
+
 ## 2014
 
 [敢付敢赔背后的互联网实时风控技术](http://www.infoq.com/cn/presentations/internet-real-time-wind-control-technology)
@@ -41,3 +59,13 @@ Lanugage: Chinese / English
 [Nikunj Oza: "Data-driven Anomaly Detection" | Talks at Google](https://www.youtube.com/watch?v=5mBiac_dhbs&t=1175s)
 
 - Air traffic; One-class SVM; [Multiple Kernel Learning based Heterogeneous Algorithm (MKAD)](https://c3.nasa.gov/dashlink/projects/34/);
+
+[Systems and methods for troubleshooting errors within computing tasks using models of log files](https://patents.google.com/patent/US9552249B1/en)
+
+- Model normal machine as a Finite-State Machine (FSM), and compare logs against the FSM.
+
+## 2005
+
+[Assumption-Free Anomaly Detection in Time Series](http://www.cs.ucr.edu/~wli/publications/WeiL_AnomalyDetection.doc)
+
+- A quite interesting 2D representation of time series. But it is hard to see why we need this representation and the proposed anomaly detection method.
