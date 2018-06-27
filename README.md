@@ -21,6 +21,11 @@ Lanugage: Chinese / English
 
 ## 2016
 
+[Detecting outliers and anomalies in realtime at Datadog](https://www.youtube.com/watch?v=mG4ZpEhRKHA)
+
+- Time-series; Outlier detection: MAD, DBSCAN; Anomaly detection: agnostic online learning;
+- Some discussions on signal processing based techniques: [FFT](https://en.wikipedia.org/wiki/Fast_Fourier_transform), [Wavelet Transform](https://en.wikipedia.org/wiki/Wavelet_transform), [Time–frequency analysis](https://en.wikipedia.org/wiki/Time–frequency_analysis).
+
 [Meituan] [美团风险控制系统综述](https://tech.meituan.com/online-risk-control.html) 
 
 [搭建风控系统道路上踩过的坑——一个CPO的心得分享](http://bigsec.com/bigsec-news/wechat-161010-CPOfenxiang)
