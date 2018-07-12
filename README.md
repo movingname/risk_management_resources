@@ -6,6 +6,10 @@ Lanugage: Chinese / English
 
 [Implementing Model-Agnosticism in Uber’s Real-Time Anomaly Detection Platform](https://eng.uber.com/anomaly-detection/)
 
+[Anomaly Detection: Algorithms, Explanations, Applications](https://www.microsoft.com/en-us/research/video/anomaly-detection-algorithms-explanations-applications/)
+
+- An overview of Thomas Dietterich's research on anomaly detection benchmarking, theory, and applications.
+
 ## 2017
 
 [Time Series Anomaly Detection: Detection of Anomalous Drops with Limited Features and Sparse Examples in Noisy Highly Periodic Data](https://arxiv.org/pdf/1708.03665.pdf)
