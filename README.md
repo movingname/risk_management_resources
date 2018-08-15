@@ -59,6 +59,9 @@ Lanugage: Chinese / English
 
 ## 2014
 
+[Fighting spam with BotMaker](https://blog.twitter.com/engineering/en_us/a/2014/fighting-spam-with-botmaker.html)
+- Rule-based; low-latency so that it can run on write path.
+
 [敢付敢赔背后的互联网实时风控技术](http://www.infoq.com/cn/presentations/internet-real-time-wind-control-technology)
 
 [阿里巴巴的风控相比较传统银行的风控有何区别？会更有优势吗？](https://www.zhihu.com/question/23184094)
