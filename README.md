@@ -25,7 +25,7 @@ Lanugage: Chinese / English
 
 ## 2016
 
-[Detecting outliers and anomalies in realtime at Datadog](https://www.youtube.com/watch?v=mG4ZpEhRKHA)
+[Detecting outliers and anomalies in realtime at Datadog](https://www.youtube.com/watch?v=mG4ZpEhRKHA) ([Blog](https://www.datadoghq.com/blog/outlier-detection-algorithms-at-datadog))
 
 - Time-series; Outlier detection: MAD, DBSCAN; Anomaly detection: agnostic online learning;
 - Some discussions on signal processing based techniques: [FFT](https://en.wikipedia.org/wiki/Fast_Fourier_transform), [Wavelet Transform](https://en.wikipedia.org/wiki/Wavelet_transform), [Time–frequency analysis](https://en.wikipedia.org/wiki/Time–frequency_analysis).
