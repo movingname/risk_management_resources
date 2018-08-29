@@ -18,6 +18,11 @@ Lanugage: Chinese / English
 
 - An overview of Thomas Dietterich's research on anomaly detection benchmarking, theory, and applications.
 
+[卷积神经网络在个人信贷风险管理中的应用](https://mp.weixin.qq.com/s/kpqYRAYiePZscC-tyLtzYw)
+
+- The main decision making model is linear and they do NOT recommend to directly use more complex machine learning models as the decision making model.
+- They propose CNN as a way of ehnancing feature engineering. Particularly, CNN explores many possible feature combinations and pick promising ones. But ultimately we need human to analyze these candidates and find ones that make sense.
+
 ## 2017
 
 [Time Series Anomaly Detection: Detection of Anomalous Drops with Limited Features and Sparse Examples in Noisy Highly Periodic Data](https://arxiv.org/pdf/1708.03665.pdf)
