@@ -1,4 +1,12 @@
-# Resources of *Risk Management* / *风险控制系统* / *Anomaly Detection* / *Malicious Account Detection*
+# References of Risk Management
+
+This file contains a list of industrial and academic articles related to detecting and mitigating risks. Currently, these articles can be grouped into several sub-topics:
+
+- Anomaly Detection
+- Risk management system / infrastructure design
+- Malicious account detection
+
+Hope you find this reference list helpful!
 
 Lanugage: Chinese / English
 
@@ -17,7 +25,7 @@ Lanugage: Chinese / English
 - Two-stage architecture: predictor and anomaly-detector / comparator.
 - For the predictor they used Deep Learning models like DNN, RNN, LSTM.
 
-[Meituan] [外卖订单量预测异常报警模型实践](https://tech.meituan.com/order-holtwinter.html)
+[外卖订单量预测异常报警模型实践](https://tech.meituan.com/order-holtwinter.html)
 
 [互联网业务风险控制的重要性](https://www.jianshu.com/p/bd6eb2d2b91b)
 
@@ -30,7 +38,7 @@ Lanugage: Chinese / English
 - Time-series; Outlier detection: MAD, DBSCAN; Anomaly detection: agnostic online learning;
 - Some discussions on signal processing based techniques: [FFT](https://en.wikipedia.org/wiki/Fast_Fourier_transform), [Wavelet Transform](https://en.wikipedia.org/wiki/Wavelet_transform), [Time–frequency analysis](https://en.wikipedia.org/wiki/Time–frequency_analysis).
 
-[Meituan] [美团风险控制系统综述](https://tech.meituan.com/online-risk-control.html) 
+[美团风险控制系统综述](https://tech.meituan.com/online-risk-control.html) 
 
 [搭建风控系统道路上踩过的坑——一个CPO的心得分享](http://bigsec.com/bigsec-news/wechat-161010-CPOfenxiang)
 
