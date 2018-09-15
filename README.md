@@ -24,7 +24,8 @@ Lanugage: Chinese / English
 - The main decision making model is linear and they do NOT recommend to directly use more complex machine learning models as the decision making model.
 - They propose CNN as a way of ehnancing feature engineering. Particularly, CNN explores many possible feature combinations and pick promising ones. But ultimately we need human to analyze these candidates and find ones that make sense.
 
-[腾讯交易反欺诈]（https://mp.weixin.qq.com/s/uqa9zY4oUfaEMdnEmP6glg）
+
+[腾讯交易反欺诈](https://mp.weixin.qq.com/s/uqa9zY4oUfaEMdnEmP6glg)
 
 ## 2017
 
