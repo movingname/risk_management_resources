@@ -3,8 +3,9 @@
 This file contains a list of industrial and academic articles related to detecting and mitigating risks. Currently, these articles can be grouped into several sub-topics:
 
 - Anomaly Detection
-- Risk management system / infrastructure design
+- Fraud Detection
 - Malicious account detection
+- Risk management system / infrastructure design
 
 Hope you find this reference list helpful!
 
@@ -22,6 +23,8 @@ Lanugage: Chinese / English
 
 - The main decision making model is linear and they do NOT recommend to directly use more complex machine learning models as the decision making model.
 - They propose CNN as a way of ehnancing feature engineering. Particularly, CNN explores many possible feature combinations and pick promising ones. But ultimately we need human to analyze these candidates and find ones that make sense.
+
+[腾讯交易反欺诈]（https://mp.weixin.qq.com/s/uqa9zY4oUfaEMdnEmP6glg）
 
 ## 2017
 
@@ -88,6 +91,10 @@ Lanugage: Chinese / English
 [Systems and methods for troubleshooting errors within computing tasks using models of log files](https://patents.google.com/patent/US9552249B1/en)
 
 - Model normal machine as a Finite-State Machine (FSM), and compare logs against the FSM.
+
+## 2008
+
+[Determining Wether a Response from a Participant is Contradictory in an Objective Manner](http://pdfpiw.uspto.gov/.piw?PageNum=0&docid=08396718&IDKey=69A698AB1EBA%0D%0A&HomeUrl=http%3A%2F%2Fpatft.uspto.gov%2Fnetacgi%2Fnph-Parser%3FSect1%3DPTO1%2526Sect2%3DHITOFF%2526d%3DPALL%2526p%3D1%2526u%3D%25252Fnetahtml%25252FPTO%25252Fsrchnum.htm%2526r%3D1%2526f%3DG%2526l%3D50%2526s1%3D8396718.PN.%2526OS%3DPN%2F8396718%2526RS%3DPN%2F8396718)
 
 ## 2005
 
