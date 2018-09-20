@@ -13,6 +13,11 @@ Lanugage: Chinese / English
 
 ## 2018
 
+[Automated Fake Account Detection at LinkedIn](https://engineering.linkedin.com/blog/2018/09/automated-fake-account-detection-at-linkedin)
+
+- Score everything.
+- Defense in depth and in redundancy.
+
 [Implementing Model-Agnosticism in Uber’s Real-Time Anomaly Detection Platform](https://eng.uber.com/anomaly-detection/)
 
 [Anomaly Detection: Algorithms, Explanations, Applications](https://www.microsoft.com/en-us/research/video/anomaly-detection-algorithms-explanations-applications/)
