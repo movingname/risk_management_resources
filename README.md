@@ -18,6 +18,9 @@ Lanugage: Chinese / English
 - Score everything.
 - Defense in depth and in redundancy.
 
+[Marketing "Dirty Tinder" on Twitter](https://labsblog.f-secure.com/2018/03/16/marketing-dirty-tinder-on-twitter/)
+- Network analysis
+
 [Implementing Model-Agnosticism in Uber’s Real-Time Anomaly Detection Platform](https://eng.uber.com/anomaly-detection/)
 
 [Anomaly Detection: Algorithms, Explanations, Applications](https://www.microsoft.com/en-us/research/video/anomaly-detection-algorithms-explanations-applications/)
