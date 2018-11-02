@@ -42,6 +42,8 @@ Lanugage: Chinese / English
 - Two-stage architecture: predictor and anomaly-detector / comparator.
 - For the predictor they used Deep Learning models like DNN, RNN, LSTM.
 
+[【反欺诈专栏】互联网黑产剖析——虚假号码](https://zhuanlan.zhihu.com/p/25474128)
+
 [外卖订单量预测异常报警模型实践](https://tech.meituan.com/order-holtwinter.html)
 
 [互联网业务风险控制的重要性](https://www.jianshu.com/p/bd6eb2d2b91b)
@@ -100,6 +102,10 @@ Lanugage: Chinese / English
 [Systems and methods for troubleshooting errors within computing tasks using models of log files](https://patents.google.com/patent/US9552249B1/en)
 
 - Model normal machine as a Finite-State Machine (FSM), and compare logs against the FSM.
+
+## 2012
+
+[Scammers and VoIP: What you need to know about illegal phone scams](https://www.voipreview.org/blog/scammers-and-voip-what-you-need-know-about-illegal-phone-scams)
 
 ## 2008
 
