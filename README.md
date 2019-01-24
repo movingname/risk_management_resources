@@ -21,6 +21,9 @@ Lanugage: Chinese / English
 [Marketing "Dirty Tinder" on Twitter](https://labsblog.f-secure.com/2018/03/16/marketing-dirty-tinder-on-twitter/)
 - Network analysis
 
+[Facebook Crackdown on Fake Accounts Isn’t Solving the Problem for Everyone](https://medium.com/thewashingtonpost/facebook-crackdown-on-fake-accounts-isnt-solving-the-problem-for-everyone-fb30b0f36d4b?qHa=true)
+- High quality article on the fake & impersonating account problem on Facbeook. Facebook uses facial recognition which seems not effective.
+
 [Implementing Model-Agnosticism in Uber’s Real-Time Anomaly Detection Platform](https://eng.uber.com/anomaly-detection/)
 
 [Anomaly Detection: Algorithms, Explanations, Applications](https://www.microsoft.com/en-us/research/video/anomaly-detection-algorithms-explanations-applications/)
@@ -41,6 +44,10 @@ Lanugage: Chinese / English
 
 - Two-stage architecture: predictor and anomaly-detector / comparator.
 - For the predictor they used Deep Learning models like DNN, RNN, LSTM.
+
+[Twilio Verify: The best phone verification solution](https://www.youtube.com/watch?v=ekv6Xh_Im5c)
+
+- Twilio argues that phone verification is a good way to prevent fake account creation.
 
 [【反欺诈专栏】互联网黑产剖析——虚假号码](https://zhuanlan.zhihu.com/p/25474128)
 
