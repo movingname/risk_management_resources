@@ -1,6 +1,6 @@
 # References of Risk Management
 
-This file contains a list of industrial and academic articles related to detecting and mitigating risks for Internet platforms. Currently, these articles can be grouped into several sub-topics:
+This file contains a broad list of industrial and academic articles related to detecting and mitigating risks for information systems & platforms. Currently, these articles can be grouped into several sub-topics:
 
 - Anomaly Detection
 - Fraud Detection
@@ -29,6 +29,11 @@ Lanugage: Chinese / English
 [Anomaly Detection: Algorithms, Explanations, Applications](https://www.microsoft.com/en-us/research/video/anomaly-detection-algorithms-explanations-applications/)
 
 - An overview of Thomas Dietterich's research on anomaly detection benchmarking, theory, and applications.
+
+[Netflix Cloud Security: Detecting Credential Compromise in AWS](https://medium.com/netflix-techblog/netflix-cloud-security-detecting-credential-compromise-in-aws-9493d6fd373a)
+
+- If my understanding is correct they use the trust on first use principle: if the IP of AssumedRole call is different from the first known IP of that role the call is likely from an outside IP and therefore related to compromised credential.
+- They have a follow up article: [Netflix Information Security: Preventing Credential Compromise in AWS](https://medium.com/netflix-techblog/netflix-information-security-preventing-credential-compromise-in-aws-41b112c15179).
 
 [卷积神经网络在个人信贷风险管理中的应用](https://mp.weixin.qq.com/s/kpqYRAYiePZscC-tyLtzYw)
 
