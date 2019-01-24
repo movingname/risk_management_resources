@@ -45,6 +45,10 @@ Lanugage: Chinese / English
 
 ## 2017
 
+[Exploring New Machine Learning Models for Account Security](https://medium.com/uber-security-privacy/uber-machine-learning-account-security-3aaadef11e45)
+- Semi-supervied model: use PCA + clustering to get labels of IP.
+- Unsupervised model: use LSTM and word2vec to discover common travel sequences between cities.
+
 [Time Series Anomaly Detection: Detection of Anomalous Drops with Limited Features and Sparse Examples in Noisy Highly Periodic Data](https://arxiv.org/pdf/1708.03665.pdf)
 
 - Two-stage architecture: predictor and anomaly-detector / comparator.
@@ -76,6 +80,9 @@ Lanugage: Chinese / English
 [LBSNShield: Malicious Account Detection in Location-Based Social Networks](https://pdfs.semanticscholar.org/3f5f/1b61fa856a2512afa9afe79b66b274dad59e.pdf)
 
 ## 2015
+
+[Mastermind: Using Uber Engineering to Combat Fraud in Real Time](https://eng.uber.com/mastermind/)
+- Rule-based engine
 
 [Anomaly Detection for Airbnb’s Payment Platform](https://medium.com/airbnb-engineering/anomaly-detection-for-airbnb-s-payment-platform-e3b0ec513199)
 
