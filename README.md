@@ -1,6 +1,6 @@
 # References of Risk Management
 
-This file contains a list of industrial and academic articles related to detecting and mitigating risks. Currently, these articles can be grouped into several sub-topics:
+This file contains a list of industrial and academic articles related to detecting and mitigating risks for Internet platforms. Currently, these articles can be grouped into several sub-topics:
 
 - Anomaly Detection
 - Fraud Detection
