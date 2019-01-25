@@ -4,7 +4,7 @@ This file contains a broad list of industrial and academic articles related to d
 
 - **Anomaly Detection**. Usually an indicator of risk is anomaly. So detecting anomaly can be the first step of risk management.
 - **Malicious Item Detection**. Sometime we more or less know what bad items (e.g., fraud transactions, fake accounts, bot accounts) look like. So in addition to anomaly signals, we can also add domain-specific signals to detect the bad stuff.
-- Malicious account detection
+- **Risk Mitigation and Prevention**. After detection the defender needs to act in the right way to mitigate the risk. This is not easy, because the defender has many constraints, like growth, usability, etc.
 - **Risk Management System / Infrastructure**. Risk management systems are challenging to build because they need to process huge amount of data to find a few bad things with high accuracy and fast response time. 
 
 Hope you find this reference list helpful!
