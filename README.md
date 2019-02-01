@@ -45,9 +45,12 @@ Lanugage: Chinese / English
 
 ## 2017
 
-[Exploring New Machine Learning Models for Account Security](https://medium.com/uber-security-privacy/uber-machine-learning-account-security-3aaadef11e45)
+*** [Exploring New Machine Learning Models for Account Security, Uber](https://medium.com/uber-security-privacy/uber-machine-learning-account-security-3aaadef11e45)
 - Semi-supervied model: use PCA + clustering to get labels of IP.
 - Unsupervised model: use LSTM and word2vec to discover common travel sequences between cities.
+
+*** [Mastermind: Using Uber Engineering to Combat Fraud in Real Time, Uber](https://eng.uber.com/mastermind/)
+- Very good insights on building a global rule-based fraud prevention engine.
 
 [Time Series Anomaly Detection: Detection of Anomalous Drops with Limited Features and Sparse Examples in Noisy Highly Periodic Data](https://arxiv.org/pdf/1708.03665.pdf)
 
