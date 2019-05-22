@@ -152,3 +152,7 @@ Lanugage: Chinese / English
 [Assumption-Free Anomaly Detection in Time Series](http://www.cs.ucr.edu/~wli/publications/WeiL_AnomalyDetection.doc)
 
 - A quite interesting 2D representation of time series. But it is hard to see why we need this representation and the proposed anomaly detection method.
+
+[Unsupervised Anomaly Detection in Network Intrusion Detection Using Clusters](https://adiwijaya.staff.telkomuniversity.ac.id/files/2014/02/Unsupervised-Anomaly-Detection-in-Network-Intrusion-Detection.pdf)
+
+- Grid-based clustering: CLIQUE, pMAFIA
