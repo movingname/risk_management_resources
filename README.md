@@ -93,6 +93,15 @@ Lanugage: Chinese / English
 
 [EVILCOHORT: Detecting Communities of Malicious Accounts on Online Services](http://www0.cs.ucl.ac.uk/staff/G.Stringhini/papers/evilcohort-usenix2015.pdf)
 
+- Detect malicious account based on account-IP mapping
+- Bipartite network projection, clustering / community detection
+
+[Detecting Clusters of Fake Accounts in Online Social Networks](http://theory.stanford.edu/~dfreeman/papers/clustering.pdf)
+
+- The main technique is a supervised machine learning pipeline for classifying an entire cluster of accounts as malicious or legitimate
+- The key features used in the model are statistics on fields of user-generated text.
+
+
 [RAD — Outlier Detection on Big Data](https://medium.com/netflix-techblog/rad-outlier-detection-on-big-data-d6b0494371cc)
 
 - Robust PCA; [project source code](https://github.com/Netflix/Surus);
@@ -116,6 +125,9 @@ Lanugage: Chinese / English
 [阿里巴巴的风控相比较传统银行的风控有何区别？会更有优势吗？](https://www.zhihu.com/question/23184094)
 
 [Uncovering Large Groups of Active Malicious Accounts in Online Social Networks](https://users.cs.duke.edu/~xwy/publications/SynchroTrap-ccs14.pdf)
+
+- Detect malicious accounts based on synchronized actions.
+- Single-linkage hierarchical clustering.
 
 [Nikunj Oza: "Data-driven Anomaly Detection" | Talks at Google](https://www.youtube.com/watch?v=5mBiac_dhbs&t=1175s)
 
