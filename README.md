@@ -24,6 +24,10 @@ Lanugage: Chinese / English
 [Facebook Crackdown on Fake Accounts Isn’t Solving the Problem for Everyone](https://medium.com/thewashingtonpost/facebook-crackdown-on-fake-accounts-isnt-solving-the-problem-for-everyone-fb30b0f36d4b?qHa=true)
 - High quality article on the fake & impersonating account problem on Facbeook. Facebook uses facial recognition which seems not effective.
 
+[LOBO – Evaluation of Generalization Deficiencies in Twi er Bot Classifiers](https://www.researchgate.net/profile/Gianluca_Stringhini/publication/329422016_LOBO_Evaluation_of_Generalization_Deficiencies_in_Twitter_Bot_Classifiers/links/5c0c51a3299bf139c7499d27/LOBO-Evaluation-of-Generalization-Deficiencies-in-Twitter-Bot-Classifiers.pdf)
+- Found that Twitter bot classifiers do not generalize well to unseen bots.
+- But the features used by external researchers and internal spam fighters are very different.
+
 [Implementing Model-Agnosticism in Uber’s Real-Time Anomaly Detection Platform](https://eng.uber.com/anomaly-detection/)
 
 [Anomaly Detection: Algorithms, Explanations, Applications](https://www.microsoft.com/en-us/research/video/anomaly-detection-algorithms-explanations-applications/)
