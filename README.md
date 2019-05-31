@@ -75,6 +75,11 @@ Lanugage: Chinese / English
 
 ## 2016
 
+[Debot: Real-Time Bot Detection via Activity Correlation](https://www.cs.unm.edu/~chavoshi/debot/)
+
+- Based on account activity time series, particularly correlation.
+- Several papers published.
+
 [Detecting outliers and anomalies in realtime at Datadog](https://www.youtube.com/watch?v=mG4ZpEhRKHA) ([Blog](https://www.datadoghq.com/blog/outlier-detection-algorithms-at-datadog))
 
 - Time-series; Outlier detection: MAD, DBSCAN; Anomaly detection: agnostic online learning;
