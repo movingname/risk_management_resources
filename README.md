@@ -75,6 +75,9 @@ Lanugage: Chinese / English
 
 ## 2016
 
+[Suspicious behavior detection: Current trends and future directions](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/suspicious%20behavior-survey.pdf)
+- A very good survey of related work.
+
 [Debot: Real-Time Bot Detection via Activity Correlation](https://www.cs.unm.edu/~chavoshi/debot/)
 
 - Based on account activity time series, particularly correlation.
@@ -133,6 +136,10 @@ Lanugage: Chinese / English
 
 [阿里巴巴的风控相比较传统银行的风控有何区别？会更有优势吗？](https://www.zhihu.com/question/23184094)
 
+[Online Social Spammer Detection](http://www.public.asu.edu/~huanliu/papers/aaai2014.pdf)
+- One key contribution is to combine content and network to detect fast evolving spammers. The basic idea is to represent the content, network, and labels as matrices. Then they find a low-rank user representation by finding a matrix factorization that minimizes a loss function. This low-rank representation becomes the feature vectors for classifier.
+- Also the model can be updated online.
+
 [Uncovering Large Groups of Active Malicious Accounts in Online Social Networks](https://users.cs.duke.edu/~xwy/publications/SynchroTrap-ccs14.pdf)
 
 - Detect malicious accounts based on synchronized actions.
@@ -149,6 +156,13 @@ Lanugage: Chinese / English
 ## 2012
 
 [Scammers and VoIP: What you need to know about illegal phone scams](https://www.voipreview.org/blog/scammers-and-voip-what-you-need-know-about-illegal-phone-scams)
+
+## 2010
+
+[Detecting and characterizing social spam campaigns](http://conferences.sigcomm.org/imc/2010/papers/p35.pdf)
+- Group wall posts by textual similarities and URLs. They build similarity graph to find clusters.
+- Then use two assumptions to find malicious clusters from benign ones.
+- Interesting empirical results. For example, 97% of accounts used for spam campaign are compromised.
 
 ## 2008
 
