@@ -153,6 +153,12 @@ Lanugage: Chinese / English
 
 - Model normal machine as a Finite-State Machine (FSM), and compare logs against the FSM.
 
+## 2013
+
+[Spotting Opinion Spammers using Behavioral Footprints](https://www.cs.uic.edu/~liub/publications/KDD-2013-Arjun-spam.pdf)
+- Formulate the review spam problem in Bayesian framework / graphical model. The model is generative and can be viewed as a soft clustering system.
+- Two key latent variables are author spamicity and review spam cluster. Author spamicity is in [0,1] and used as the parameter of Bernoulli distribution for review spam cluster (\pi). \pi, then together with a few other latent variables, generate observable variables.
+
 ## 2012
 
 [Scammers and VoIP: What you need to know about illegal phone scams](https://www.voipreview.org/blog/scammers-and-voip-what-you-need-know-about-illegal-phone-scams)
