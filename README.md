@@ -11,6 +11,11 @@ Hope you find this reference list helpful!
 
 Lanugage: Chinese / English
 
+## 2019
+
+[反欺诈之被丢掉的黄金数据](https://zhuanlan.zhihu.com/p/69694663)
+- Very good feature engineering.
+
 ## 2018
 
 [Automated Fake Account Detection at LinkedIn](https://engineering.linkedin.com/blog/2018/09/automated-fake-account-detection-at-linkedin)
@@ -161,7 +166,9 @@ Lanugage: Chinese / English
 
 ## 2012
 
-[Scammers and VoIP: What you need to know about illegal phone scams](https://www.voipreview.org/blog/scammers-and-voip-what-you-need-know-about-illegal-phone-scams)
+[Scammers and VoIP: What you need to know about illegal phone scams](https://www.voipreview.org/blog/scammers-and-voip-what-you-need-know-about-illegal-phone-scams
+
+[Sms spam detection using noncontent features](http://www.cse.ust.hk/~qyang/Docs/2012/ieee_intelligent_sys_SMS-Spam_Detection.pdf)
 
 ## 2010
 
