@@ -52,6 +52,8 @@ Lanugage: Chinese / English
 
 [腾讯交易反欺诈](https://mp.weixin.qq.com/s/uqa9zY4oUfaEMdnEmP6glg)
 
+[信用评分模型的理解和学习](https://zhuanlan.zhihu.com/p/36263276)
+
 ## 2017
 
 *** [Exploring New Machine Learning Models for Account Security, Uber](https://medium.com/uber-security-privacy/uber-machine-learning-account-security-3aaadef11e45)
