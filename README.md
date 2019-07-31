@@ -13,6 +13,8 @@ Lanugage: Chinese / English
 
 ## 2019
 
+[Characterizing and Detecting Malicious Accounts in Privacy-Centric Mobile Social Networks: A Case Study](https://dl.acm.org/citation.cfm?id=3330702)
+
 [反欺诈之被丢掉的黄金数据](https://zhuanlan.zhihu.com/p/69694663)
 - Very good feature engineering.
 
@@ -79,6 +81,8 @@ Lanugage: Chinese / English
 [互联网业务风险控制的重要性](https://www.jianshu.com/p/bd6eb2d2b91b)
 
 [互联网公司的风险控制](https://yq.aliyun.com/articles/136434)
+
+[评分卡模型开发-基于逻辑回归的标准评分卡实现 - Erin的博客 - CSDN博客](https://blog.csdn.net/lll1528238733/article/details/76601897)
 
 ## 2016
 
