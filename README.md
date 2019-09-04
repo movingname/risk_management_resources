@@ -18,7 +18,7 @@ Lanugage: Chinese / English
 [反欺诈之被丢掉的黄金数据](https://zhuanlan.zhihu.com/p/69694663)
 - Very good feature engineering.
 
-[数字化风控——图计算八个应用场景](https://www.iyiou.com/p/107367.html)[Part 2](http://www.sohu.com/a/331895665_467315)
+[数字化风控——图计算八个应用场景](https://www.iyiou.com/p/107367.html), [Part 2](http://www.sohu.com/a/331895665_467315)
 
 ## 2018
 
@@ -87,6 +87,8 @@ Lanugage: Chinese / English
 [评分卡模型开发-基于逻辑回归的标准评分卡实现 - Erin的博客 - CSDN博客](https://blog.csdn.net/lll1528238733/article/details/76601897)
 
 [用图计算做黑名单测试 京东金融准确率超90%](http://stock.xinhua08.com/a/20170919/1727030.shtml)
+
+[图模型在欺诈检测应用一点看法](https://blog.csdn.net/hero_fantao/article/details/78745263)
 
 ## 2016
 
