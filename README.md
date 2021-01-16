@@ -105,6 +105,8 @@ Lanugage: Chinese / English
 - Time-series; Outlier detection: MAD, DBSCAN; Anomaly detection: agnostic online learning;
 - Some discussions on signal processing based techniques: [FFT](https://en.wikipedia.org/wiki/Fast_Fourier_transform), [Wavelet Transform](https://en.wikipedia.org/wiki/Wavelet_transform), [Time–frequency analysis](https://en.wikipedia.org/wiki/Time–frequency_analysis).
 
+[Disinformation on the web: Impact, characteristics, and detection of wikipedia hoaxes](http://infolab.stanford.edu/~west1/pubs/Kumar-West-Leskovec_WWW-16.pdf)
+
 [京东基于 Spark 的风控系统架构实践和技术细节](https://www.infoq.cn/article/jingdong-risk-control-system-architecture-based-on-spark)
 
 [美团风险控制系统综述](https://tech.meituan.com/online-risk-control.html) 
