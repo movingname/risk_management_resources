@@ -11,6 +11,11 @@ Hope you find this reference list helpful!
 
 Lanugage: Chinese / English
 
+## 2021
+
+[Fighting spam with Guardian, a real-time analytics and rules engine](https://medium.com/pinterest-engineering/fighting-spam-with-guardian-a-real-time-analytics-and-rules-engine-938e7e61fa27)
+- Pinterest
+
 ## 2019
 
 [Characterizing and Detecting Malicious Accounts in Privacy-Centric Mobile Social Networks: A Case Study](https://dl.acm.org/citation.cfm?id=3330702)
