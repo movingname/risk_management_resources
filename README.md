@@ -32,6 +32,9 @@ Lanugage: Chinese / English
 - Score everything.
 - Defense in depth and in redundancy.
 
+[Breaking fraud & bot detection solutions - Mayank Dhiman - AppSecUSA 2018](https://www.youtube.com/watch?v=odPZ3z-yz1k)
+- A good overview of Web-based bot defense.
+
 [Marketing "Dirty Tinder" on Twitter](https://labsblog.f-secure.com/2018/03/16/marketing-dirty-tinder-on-twitter/)
 - Network analysis
 
