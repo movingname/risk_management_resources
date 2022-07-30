@@ -75,6 +75,9 @@ Lanugage: Chinese / English
 *** [Mastermind: Using Uber Engineering to Combat Fraud in Real Time, Uber](https://eng.uber.com/mastermind/)
 - Very good insights on building a global rule-based fraud prevention engine.
 
+[Automation Attacks at Scale - Credential Exploitation](https://grehack.fr/data/2017/slides/GreHack17_Automation_Attacks_at_Scale_paper.pdf)
+- A great empirical study on credential stuffing and account takeover in general.
+
 [Time Series Anomaly Detection: Detection of Anomalous Drops with Limited Features and Sparse Examples in Noisy Highly Periodic Data](https://arxiv.org/pdf/1708.03665.pdf)
 
 - Two-stage architecture: predictor and anomaly-detector / comparator.
