@@ -11,6 +11,10 @@ Hope you find this reference list helpful!
 
 Lanugage: Chinese / English
 
+## 2022
+
+[Digital Trust & Safety Partnership Best Practices Framework](https://dtspartnership.org/best-practices/)
+
 ## 2021
 
 [Fighting spam with Guardian, a real-time analytics and rules engine](https://medium.com/pinterest-engineering/fighting-spam-with-guardian-a-real-time-analytics-and-rules-engine-938e7e61fa27)
