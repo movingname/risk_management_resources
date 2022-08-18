@@ -15,6 +15,8 @@ Lanugage: Chinese / English
 
 [Digital Trust & Safety Partnership Best Practices Framework](https://dtspartnership.org/best-practices/)
 
+[Linkedin spam: a case study of robust feature engineering](https://toooold.com/2022/08/03/linkedin_fraud_account.html)
+
 ## 2021
 
 [Fighting spam with Guardian, a real-time analytics and rules engine](https://medium.com/pinterest-engineering/fighting-spam-with-guardian-a-real-time-analytics-and-rules-engine-938e7e61fa27)
@@ -59,6 +61,9 @@ Lanugage: Chinese / English
 
 - If my understanding is correct they use the trust on first use principle: if the IP of AssumedRole call is different from the first known IP of that role the call is likely from an outside IP and therefore related to compromised credential.
 - They have a follow up article: [Netflix Information Security: Preventing Credential Compromise in AWS](https://medium.com/netflix-techblog/netflix-information-security-preventing-credential-compromise-in-aws-41b112c15179).
+
+[Stripe Machine Learning with Michael Manapat](https://www.youtube.com/watch?v=1XV3849vx44)
+- Great stuff about applying ML in fraud detection.
 
 [卷积神经网络在个人信贷风险管理中的应用](https://mp.weixin.qq.com/s/kpqYRAYiePZscC-tyLtzYw)
 
