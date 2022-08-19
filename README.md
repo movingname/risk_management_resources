@@ -15,6 +15,8 @@ Lanugage: Chinese / English
 
 [Digital Trust & Safety Partnership Best Practices Framework](https://dtspartnership.org/best-practices/)
 
+[Mis2-TrueFact 2022: Joint International Workshop on Misinformation and Misbehavior Mining on the Web & Making a Credible Web for Tomorrow](http://claws.cc.gatech.edu/mis2-truefact-kdd2022.html)
+
 [Linkedin spam: a case study of robust feature engineering](https://toooold.com/2022/08/03/linkedin_fraud_account.html)
 
 ## 2021
