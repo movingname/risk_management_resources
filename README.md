@@ -66,6 +66,7 @@ Lanugage: Chinese / English
 
 [Stripe Machine Learning with Michael Manapat](https://www.youtube.com/watch?v=1XV3849vx44)
 - Great stuff about applying ML in fraud detection.
+- Also described how does Stripe's anti-fraud ML infra look like.
 
 [卷积神经网络在个人信贷风险管理中的应用](https://mp.weixin.qq.com/s/kpqYRAYiePZscC-tyLtzYw)
 
