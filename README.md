@@ -24,6 +24,9 @@ Lanugage: Chinese / English
 
 ## 2021
 
+[Detecting New Account Fraud and Transaction Fraud with Amazon Fraud Detector](https://d1.awsstatic.com/fraud-detector/afd-technical-guide-detecting-new-account-fraud.pdf)
+- Practical insights on using ML for fraud detection
+
 [Fighting spam with Guardian, a real-time analytics and rules engine](https://medium.com/pinterest-engineering/fighting-spam-with-guardian-a-real-time-analytics-and-rules-engine-938e7e61fa27)
 - Pinterest
 
