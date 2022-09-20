@@ -19,8 +19,6 @@ Lanugage: Chinese / English
 
 [Linkedin spam: a case study of robust feature engineering](https://toooold.com/2022/08/03/linkedin_fraud_account.html)
 
-[Prevent fake account sign-ups in real time with AI using Amazon Fraud Detector](https://aws.amazon.com/blogs/machine-learning/prevent-fake-account-sign-ups-in-real-time-with-ai-using-amazon-fraud-detector/)
-
 [Amazon Fraud Detector launches Account Takeover Insights (ATI)](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-fraud-detector-account-takeover-insights/)
 
 [支付宝和张三的十年战争](https://mp.weixin.qq.com/s?__biz=MzU0NDEwMTc1MA==&mid=2247519836&idx=1&sn=82a95b6e8deefccd20c395980c0614b4&chksm=fb038a45cc7403530b67eaf10a597d9c56a93d2b5b171052c9aa11292353e08ae3226248184b&scene=90&subscene=93&sessionid=1662088991&clicktime=1662088997&enterid=1662088997&ascene=56&realreporttime=1662088997968&forceh5=1&devicetype=android-32&version=28001541&nettype=WIFI&lang=en&session_us=gh_7d609102b53c&exportkey=CbDUmw6jdFg8KBXM9G20OVI%3D&pass_ticket=SWrYU%2FM34hzWy6tRYzqcEgKGRY6bSuNzAPebZwKWbUlIUvqBMnDhWHrMckP8THvq&wx_header=3)
@@ -30,6 +28,8 @@ Lanugage: Chinese / English
 
 [Detecting New Account Fraud and Transaction Fraud with Amazon Fraud Detector](https://d1.awsstatic.com/fraud-detector/afd-technical-guide-detecting-new-account-fraud.pdf)
 - Practical insights on using ML for fraud detection
+
+[Prevent fake account sign-ups in real time with AI using Amazon Fraud Detector](https://aws.amazon.com/blogs/machine-learning/prevent-fake-account-sign-ups-in-real-time-with-ai-using-amazon-fraud-detector/)
 
 [Fighting spam with Guardian, a real-time analytics and rules engine](https://medium.com/pinterest-engineering/fighting-spam-with-guardian-a-real-time-analytics-and-rules-engine-938e7e61fa27)
 - Pinterest
