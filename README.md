@@ -38,6 +38,8 @@ Lanugage: Chinese / English
 
 [Characterizing and Detecting Malicious Accounts in Privacy-Centric Mobile Social Networks: A Case Study](https://dl.acm.org/citation.cfm?id=3330702)
 
+[Trust & Safety Engineering @ GitHub - Lexi Galantino](https://www.youtube.com/watch?v=UC3Y9rx1jFQ)
+
 [黑客为什么不攻击支付宝？](https://mp.weixin.qq.com/s?__biz=MzU0NDEwMTc1MA==&mid=2247491697&idx=1&sn=ba3745aae9cc8f7a8ec8e62b16492811&chksm=fb03e468cc746d7e6a1f678b90437ee5e992a9fc9bb8c90a9e67f839ff5b4ed01040e7fe7751&scene=21#wechat_redirect)
 - A lot of practical insights on payment fraud.
 
