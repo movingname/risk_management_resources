@@ -26,6 +26,8 @@ Lanugage: Chinese / English
 
 ## 2021
 
+[Deep Entity Classification: Abusive Account Detection for Online Social](https://www.youtube.com/watch?v=YeX4MdU0JNk)
+
 [Detecting New Account Fraud and Transaction Fraud with Amazon Fraud Detector](https://d1.awsstatic.com/fraud-detector/afd-technical-guide-detecting-new-account-fraud.pdf)
 - Practical insights on using ML for fraud detection
 
