@@ -11,6 +11,10 @@ Hope you find this reference list helpful!
 
 Lanugage: Chinese / English
 
+## 2024
+
+[Building Trust and Combating Abuse On Our Platform](https://www.linkedin.com/blog/engineering/trust-and-safety/building-trust-and-combating-abuse-on-our-platform)
+
 ## 2022
 
 [Digital Trust & Safety Partnership Best Practices Framework](https://dtspartnership.org/best-practices/)
